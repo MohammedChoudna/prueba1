@@ -22,7 +22,7 @@ public class EntradaYsalida {
         System.out.println("La cadena es de"+cadena);
         System.out.println("La cadena en minusculas es"+cadena.toLower);
        
-        
+        kjshdfkshfksdhfdkhfdidhhisd
         
     }
 }
