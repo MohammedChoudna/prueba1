@@ -20,6 +20,7 @@ public class EntradaYsalida {
         System.out.println("El decimal es "+decimal);
         System.out.println("El caracter es "+caracter);
         System.out.println("La cadena es de"+cadena);
+        System.out.println("La cadena en minusculas es"+cadena.toLower);
        
         
         
